@@ -58,7 +58,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=arrazicode&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=6366F1" alt="GitHub stats for arrazicode: total commits, pull requests, and repositories" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=arrazicode&show_icons=true&hide_border=true&theme=github_dark&title_color=6366F1" alt="GitHub stats for arrazicode: total commits, pull requests, and repositories" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrazicode&layout=compact&hide_border=true&theme=github_dark&title_color=6366F1" alt="Most used programming languages across arrazicode's repositories" />
 </div>
 
