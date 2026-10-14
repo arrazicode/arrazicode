@@ -3,6 +3,12 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/arrazicode">
+    <img alt="GitHub @arrazicode" src="https://img.shields.io/badge/%40arrazicode-6366F1?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <b>Laravel &amp; WordPress Developer</b><br />
   Full-stack web development — from server configuration to the user interface.
 </p>
