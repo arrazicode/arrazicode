@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Hi,+I'm+Rahmat+Rezeki;Laravel+%26+WordPress+Developer;Building+web+products+from+server+to+interface" alt="Animated text: Hi, I'm Rahmat Rezeki — Laravel & WordPress Developer — Building web products from server to interface" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=800&lines=Hi,+I'm+Rahmat+Rezeki;Laravel+%26+WordPress+Developer;Building+web+products+from+server+to+interface" alt="Animated text: Hi, I'm Rahmat Rezeki — Laravel & WordPress Developer — Building web products from server to interface" />
 </div>
 
 <p align="center">
